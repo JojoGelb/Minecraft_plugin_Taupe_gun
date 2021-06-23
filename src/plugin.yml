@@ -1,0 +1,14 @@
+name: Taupe_Gun_Charly
+version: 1.0
+api-version: 1.13
+author: Jordy
+main: code.Main
+description: Plugin Taupe Gun
+
+commands:
+  stop border:
+    description: TP every players and start the Border
+  start_game:
+    description: start the game
+  msg_taupes:
+    description: Envoie un message aux taupes
